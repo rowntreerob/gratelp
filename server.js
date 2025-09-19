@@ -66,19 +66,27 @@ app.get("/getchloop", (req, res) => {
     window.initMap = function() {
       (async function init() {
         const { Map, InfoWindow } = await google.maps.importLibrary("maps");
+        const { AdvancedMarkerElement, PinElement } = await google.maps.importLibrary("marker");
 
         const START_CENTER = ${hasQueryCenter ? `{"lat":${qLat},"lng":${qLng}}` : "null"};
 
         const mapOptions = {
-          mapTypeId: "roadmap",
+          mapId: "DEMO_MAP_ID",
           streetViewControl: false,
-          mapTypeControl: false
+          mapTypeControl: false,
+          center: START_CENTER,
+          zoom: 6
         };
         if (START_CENTER) {
           mapOptions.center = START_CENTER;
           mapOptions.zoom = 6;
         }
 
+        const basePin = new PinElement({
+          background: '#3a60cf',
+          borderColor: '#FFFFFF',
+          glyphColor: '#eeedff'
+        });  
         const map = new Map(document.getElementById("map"), mapOptions);
         const info = new InfoWindow();
         const bounds = new google.maps.LatLngBounds();
@@ -101,12 +109,10 @@ app.get("/getchloop", (req, res) => {
           const url   = (p.url   || "#").toString();
           const title = (p.title || place || url).toString();
 
-          const marker = new google.maps.Marker({
-            position: { lat, lng },
-            map,
-            title: place || title
-          });
-
+          const content = basePin.element.cloneNode(true);
+          const marker = new AdvancedMarkerElement({
+            position: { lat, lng }, map, content, title: place || title
+          });          
           // Build InfoWindow content safely using DOM (no string HTML injection)
           function openInfo() {
             const container = document.createElement("div");
