@@ -1,7 +1,7 @@
 # gratelp - mapped index of places visited and blogged about 
 
 
-[Input geoJSON](https://github.com/rowntreerob/gratelp/blob/main/greatloopplaces-001.geojson?short_path=e046a32#L20)
+[Input geoJSON](https://github.com/rowntreerob/gratelp/blob/main/greatloopplaces-001.geojson?short_path=e046a32#L20) syntax
 
 ![View the map](https://github.com/rowntreerob/gratelp/blob/main/grlp_map_ui.png)
 
@@ -11,27 +11,18 @@ Map server & public hosting for the tail-end of a longer processing sequence and
 
 ## Features
 
-- Outputs a map of placemarkers hi-lighted in blog(s)
+- Outputs a [map of placemarkers](https://gratelp-production.up.railway.app/getchloop) hi-lighted in blog(s)
 - Hover , click to open the original blog
 - Simple map index of extensive journeys covered in blogs
-- Write simple blogs that employ natural language and place names 
+- using [embed a site](https://support.wix.com/en/article/wix-editor-embedding-a-site-or-a-widget), post map like this to your blog 
 - Upstream AI steps convert blog corpus to geojson syntax for any map api
 
-Markdown is a lightweight markup language based on the formatting conventions
-that people naturally use in email.
-As [John Gruber] writes on the [Markdown site][df1]
+## Usage
+- Install input geojson file in project root
+- config GEO_PATH in server.js
+- add new [route](https://github.com/rowntreerob/gratelp/blob/ebc1c9541e4718ae760c204a17762b94f4c3ac30/server.js#L32) in server.js to handle the map request
+- new Post entry in blog using embed a site gets the map on your blog
 
-> The overriding design goal for Markdown's
-> formatting syntax is to make it as readable
-> as possible. The idea is that a
-> Markdown-formatted document should be
-> publishable as-is, as plain text, without
-> looking like it's been marked up with tags
-> or formatting instructions.
-
-This text you see here is *actually- written in Markdown! To get a feel
-for Markdown's syntax, type some text into the left window and
-watch the results in the right.
 
 ## Tech
 
