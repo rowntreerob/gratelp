@@ -5,7 +5,7 @@
 
 ![View the map](https://github.com/rowntreerob/gratelp/blob/main/grlp_map_ui.png)
 
-Map server & public hosting for the tail-end of a longer processing sequence and distillation of travel blog collections to a simple map containing a set of markers providing entire journey summary.  These markers, on-click, link directly to a blog post in whose body the place was originally mentioned. 
+Map server & public hosting at end of processing to distill travel blog collections to a simple map. A set of map markers provide graphic summary of an entire journey.  These markers, on-click, link directly to a blog post in whose body the place was originally mentioned. 
 
 
 
