@@ -5,7 +5,7 @@
 
 ![View the map](https://github.com/rowntreerob/gratelp/blob/main/grlp_map_ui.png)
 
-Map server & public hosting for the tail-end of a longer processing sequence and distillation of travel blog collections to a simple, deeplinked map containing a set of markers that on-click, will link to a blog post, in whose body the place was mentioned. 
+Map server & public hosting for the tail-end of a longer processing sequence and distillation of travel blog collections to a simple map containing a set of markers providing entire journey summary.  These markers, on-click, link directly to a blog post in whose body the place was originally mentioned. 
 
 
 
@@ -30,9 +30,10 @@ Preceeding steps , external process generates Input geoJSON for this project. AI
 
 - scrape with [playwright](https://github.com/microsoft/playwright-python) & list of all blog links
 - visit content, [contstruct metadata](https://github.com/rowntreerob/gratelp/blob/main/grlp_data_schema_bloglist.png) for the AI phase
-- [AI prompt](https://chatgpt.com/share/68b9ae4f-c42c-8003-8b34-24c6f30261de) , multiple stages w NLP on blog text 
-- AI parsing isolates geographic locations out of genl text body, img labels. looks up coordinates for map gumdrops
-- AI manages data hierarchy titles, links, map coordinates  
-- AI outputs geoJSON for std mapping layer interface ( input geoJSON at top)
+- [AI prompt](https://chatgpt.com/share/68b9ae4f-c42c-8003-8b34-24c6f30261de) , multiple stages w NLP on complete blog text ( img labels & all)
+- AI inference /parsing isolates geographic locations out of text. Looks up coordinates for map gumdrops that matches places visited.
+- AI manages data hierarchy (titles, links, map coordinates)   
+- AI outputs geoJSON for std mapping layer interface ( input geoJSON at top is generic map layer input)
+- choose a map layer to host / represent data from the AI
 
 
