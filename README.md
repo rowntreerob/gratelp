@@ -31,7 +31,7 @@ Preceeding steps , external process generates Input geoJSON for this project. AI
 - scrape with [playwright](https://github.com/microsoft/playwright-python) & list of all blog links
 - visit content, [contstruct metadata](https://github.com/rowntreerob/gratelp/blob/main/grlp_data_schema_bloglist.png) for the AI phase
 - [AI prompt](https://chatgpt.com/share/68b9ae4f-c42c-8003-8b34-24c6f30261de) , multiple stages w NLP on complete blog text ( img labels & all)
-- AI inference /parsing isolates geographic locations out of text. Looks up coordinates for map gumdrops that matches places visited.
+- AI distills set of geographic locations from text. Generates map coordinates for set of gumdrops matching places visited.
 - AI manages data hierarchy (titles, links, map coordinates)   
 - AI outputs geoJSON for std mapping layer interface ( input geoJSON at top is generic map layer input)
 - choose a map layer to host / represent data from the AI
