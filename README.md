@@ -25,6 +25,9 @@ Map server & public hosting for the tail-end of a longer processing sequence and
 
 
 ## Tech - upstream  AI steps to infer the places visited
+  
+Preceeding steps , external process generates Input geoJSON for this project. AI layer is under construction and out-of-scope.   
+
 - scrape with [playwright](https://github.com/microsoft/playwright-python) & list of all blog links
 - visit content, [contstruct metadata](https://github.com/rowntreerob/gratelp/blob/main/grlp_data_schema_bloglist.png) for the AI phase
 - [AI prompt](https://chatgpt.com/share/68b9ae4f-c42c-8003-8b34-24c6f30261de) , multiple stages w NLP on blog text 
