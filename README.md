@@ -11,10 +11,10 @@ Map server & public hosting for the tail-end of a longer processing sequence and
 
 ## Features
 
-- Outputs a [map of placemarkers](https://gratelp-production.up.railway.app/getchloop) hi-lighted in blog(s)
+- Outputs a standalone [map of placemarkers](https://gratelp-production.up.railway.app/getchloop) hi-lighted in blog(s)
 - Hover , click to open the original blog
 - Simple map index of extensive journeys covered in blogs
-- using [embed a site](https://support.wix.com/en/article/wix-editor-embedding-a-site-or-a-widget), post map like this to your blog 
+- using [embed a site](https://support.wix.com/en/article/wix-editor-embedding-a-site-or-a-widget), post map of placemarkers as TOC for all your blogs 
 - Upstream AI steps convert blog corpus to geojson syntax for any map api
 
 ## Usage
@@ -24,7 +24,12 @@ Map server & public hosting for the tail-end of a longer processing sequence and
 - new Post entry in blog using embed a site gets the map on your blog
 
 
-## Tech
-
+## Tech - upstream using AI to infer the places visited
+- scape with [playwright](https://github.com/microsoft/playwright-python) & list of all blog links
+- visit content, [contstruct metadata](https://github.com/rowntreerob/gratelp/blob/main/grlp_data_schema_bloglist.png) for the AI phase
+- [AI prompt](https://chatgpt.com/share/68b9ae4f-c42c-8003-8b34-24c6f30261de) , multiple stages w NLP on blog text 
+- AI parsing isolates geographic locations out of genl text body, img labels. looks up coordinates for map gumdrops
+- AI manages data hierarchy titles, links, map coordinates  
+- AI outputs geoJSON for std mapping layer interface ( input geoJSON at top)
 
 
