@@ -14,7 +14,8 @@ Map server & public hosting at end of processing to distill travel blog collecti
 - Outputs a standalone [map of placemarkers](https://gratelp-production.up.railway.app/getchloop) hi-lighted in blog(s)
 - Hover , click markers in the above to open the original blog
 - Simple map index (TOC) of extensive journeys covered in blogs
-- use your platform's [embed a 3rd party site page](https://support.wix.com/en/article/wix-editor-embedding-a-site-or-a-widget) post - embed the url for the map of placemarkers above in the new post to incorporate the map's features into your blog
+- use your platform's [embed a 3rd party site page](https://support.wix.com/en/article/wix-editor-embedding-a-site-or-a-widget) post
+- embed the url for the map of placemarkers above in the new post to incorporate the map's features into your blog
 - Upstream AI steps convert blog corpus to geojson syntax for input to any map api
 
 ## Usage - your own geojson as input to your own map server
