@@ -1,0 +1,2690 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.197,
+          44.783
+        ]
+      },
+      "properties": {
+        "place": "Colonel By Island (Rideau)",
+        "links": [
+          {
+            "url": "https://www.mvkatahdin.com/post/it-just-gets-better",
+            "title": "It Just Gets Better!",
+            "rank": 4
+          },
+          {
+            "url": "https://www.mvkatahdin.com/post/what-a-weekend-and-canada-day-is-tuesday",
+            "title": "What a Weekend and Canada Day Is Tuesday!",
+            "rank": 2
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.431,
+          38.967
+        ]
+      },
+      "properties": {
+        "place": "Grafton Harbor, Illinois",
+        "links": [
+          {
+            "url": "https://www.mvkatahdin.com/post/so-much-to-share",
+            "title": "So Much to Share!",
+            "rank": 5
+          },
+          {
+            "url": "https://www.mvkatahdin.com/post/we-re-on-the-mississippi-but-not-without-some-excitement",
+            "title": "We're On the Mississippi (But Not Without Some Excitement)",
+            "rank": 5
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.316,
+          44.3
+        ]
+      },
+      "properties": {
+        "place": "Peterborough, Ontario",
+        "links": [
+          {
+            "url": "https://www.mvkatahdin.com/post/rocks",
+            "title": "Rocks!",
+            "rank": 4
+          },
+          {
+            "url": "https://www.mvkatahdin.com/post/as-best-we-can-count-a-quick-taking-stock",
+            "title": "As Best We Can Count: A Quick Taking Stock",
+            "rank": 2
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.1167,
+          44.5167
+        ]
+      },
+      "properties": {
+        "place": "Stony (Stoney) Lake, Ontario",
+        "links": [
+          {
+            "url": "https://www.mvkatahdin.com/post/more-stony-lake-and-moving-on",
+            "title": "More Stony Lake; and, Moving On",
+            "rank": 4
+          },
+          {
+            "url": "https://www.mvkatahdin.com/post/rocks",
+            "title": "Rocks!",
+            "rank": 3
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.302,
+          44.309
+        ]
+      },
+      "properties": {
+        "place": "Trent Canal (Peterborough)",
+        "links": [
+          {
+            "url": "https://www.mvkatahdin.com/post/gordon-lightfoot-s-home-town-who-knew",
+            "title": "Gordon Lightfoot's Home Town--Who Knew?",
+            "rank": 2
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.18,
+          44.56
+        ]
+      },
+      "properties": {
+        "place": "Trent–Severn Waterway",
+        "links": [
+          {
+            "url": "https://www.mvkatahdin.com/post/after-the-big-chute-another-leg-behind-us",
+            "title": "After the Big Chute, Another Leg Behind Us",
+            "rank": 4
+          },
+          {
+            "url": "https://www.mvkatahdin.com/post/cruising-the-trent-severn-waterway-a-dream-come-true-on-the-fourth-of-july",
+            "title": "Cruising the Trent-Severn Waterway--A Dream Come True on the Fourth of July!",
+            "rank": 3
+          },
+          {
+            "url": "https://www.mvkatahdin.com/post/two-hot-days-on-the-trent-severn",
+            "title": "Two, Hot Days on the Trent-Severn",
+            "rank": 3
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.398,
+          44.679
+        ]
+      },
+      "properties": {
+        "place": "Westport, Ontario",
+        "links": [
+          {
+            "url": "https://www.mvkatahdin.com/post/what-a-weekend-and-canada-day-is-tuesday",
+            "title": "What a Weekend and Canada Day Is Tuesday!",
+            "rank": 5
+          },
+          {
+            "url": "https://www.mvkatahdin.com/post/it-just-gets-better",
+            "title": "It Just Gets Better!",
+            "rank": 2
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.454,
+          27.108
+        ]
+      },
+      "properties": {
+        "place": "Albee Road Bridge (Nokomis)",
+        "links": [
+          {
+            "url": "https://www.mvkatahdin.com/post/the-end-of-the-gulf-icw",
+            "title": "The End of the Gulf ICW",
+            "rank": 1
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.45,
+          30.564
+        ]
+      },
+      "properties": {
+        "place": "Amelia Island, Florida",
+        "links": [
+          {
+            "url": "https://www.mvkatahdin.com/post/the-weekend-update-farewell-to-st-augusinte-hello-to-amelia-island-and-fernandina-beach",
+            "title": "The Weekend Update--Farewell to St. Augusinte; Hello to Amelia Island and Fernandina Beach",
+            "rank": 2
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.0,
+          29.6
+        ]
+      },
+      "properties": {
+        "place": "Apalachicola Bay",
+        "links": [
+          {
+            "url": "https://www.mvkatahdin.com/post/stella-jif-and-firehook-crackers-for-me-nap-time-for-the-admiral-and-bosun-we-broke-the-2000-mil",
+            "title": "Stella, Jif, and Firehook Crackers for Me; Nap Time for the Admiral and Bosun: We Broke the 2000 Mile Mark Tod",
+            "rank": 2
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.064,
+          36.274
+        ]
+      },
+      "properties": {
+        "place": "Ashland City, Tennessee",
+        "links": [
+          {
+            "url": "https://www.mvkatahdin.com/post/taylor-hasn-t-invited-me-to-dinner-yet-but-marie-has",
+            "title": "Taylor Hasn't Invited Me to Dinner--Yet.  But, Marie Has!",
+            "rank": 1
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.0,
+          29.0
+        ]
+      },
+      "properties": {
+        "place": "Atlantic Intracoastal Waterway (AICW)",
+        "links": [
+          {
+            "url": "https://www.mvkatahdin.com/post/and-the-rocket-s-red-glare",
+            "title": "And the Rocket's Red Glare!",
+            "rank": 4
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.69,
+          44.389
+        ]
+      },
+      "properties": {
+        "place": "Barrie, Ontario",
+        "links": [
+          {
+            "url": "https://www.mvkatahdin.com/post/a-great-week-living-ashore",
+            "title": "A Great Week Living Ashore",
+            "rank": 2
+          },
+          {
+            "url": "https://www.mvkatahdin.com/post/gordon-lightfoot-s-home-town-who-knew",
+            "title": "Gordon Lightfoot's Home Town--Who Knew?",
+            "rank": 2
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.649,
+          34.719
+        ]
+      },
+      "properties": {
+        "place": "Beaufort, North Carolina",
+        "links": [
+          {
+            "url": "https://www.mvkatahdin.com/post/wow-an-interlude-and-off-again",
+            "title": "Wow!  An Interlude and Off Again",
+            "rank": 4
+          },
+          {
+            "url": "https://www.mvkatahdin.com/post/surviving-a-gale-in-hilton-head",
+            "title": "Surviving a Gale in Hilton Head",
+            "rank": 3
+          },
+          {
+            "url": "https://www.mvkatahdin.com/post/the-gullah-geechee",
+            "title": "The Gullah Geechee",
+            "rank": 1
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.669,
+          32.431
+        ]
+      },
+      "properties": {
+        "place": "Beaufort, South Carolina",
+        "links": [
+          {
+            "url": "https://www.mvkatahdin.com/post/wow-an-interlude-and-off-again",
+            "title": "Wow!  An Interlude and Off Again",
+            "rank": 4
+          },
+          {
+            "url": "https://www.mvkatahdin.com/post/surviving-a-gale-in-hilton-head",
+            "title": "Surviving a Gale in Hilton Head",
+            "rank": 3
+          },
+          {
+            "url": "https://www.mvkatahdin.com/post/the-gullah-geechee",
+            "title": "The Gullah Geechee",
+            "rank": 1
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.62,
+          35.54
+        ]
+      },
+      "properties": {
+        "place": "Belhaven, North Carolina",
+        "links": [
+          {
+            "url": "https://www.mvkatahdin.com/post/you-can-teach-an-old-dog-new-tricks",
+            "title": "You Can Teach an Old Dog New Tricks!",
+            "rank": 3
+          },
+          {
+            "url": "https://www.mvkatahdin.com/post/the-muse-the-muse-oh-where-is-the-muse",
+            "title": "The Muse, the Muse, Oh Where Is the Muse??",
+            "rank": 1
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.6443,
+          44.7967
+        ]
+      },
+      "properties": {
+        "place": "Big Chute Marine Railway",
+        "links": [
+          {
+            "url": "https://www.mvkatahdin.com/post/after-the-big-chute-another-leg-behind-us",
+            "title": "After the Big Chute, Another Leg Behind Us",
+            "rank": 5
+          },
+          {
+            "url": "https://www.mvkatahdin.com/post/a-great-week-living-ashore",
+            "title": "A Great Week Living Ashore",
+            "rank": 2
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.2,
+          44.77
+        ]
+      },
+      "properties": {
+        "place": "Big Rideau Lake",
+        "links": [
+          {
+            "url": "https://www.mvkatahdin.com/post/it-just-gets-better",
+            "title": "It Just Gets Better!",
+            "rank": 3
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.036,
+          45.34
+        ]
+      },
+      "properties": {
+        "place": "Big Sound Marina (Parry Sound)",
+        "links": [
+          {
+            "url": "https://www.mvkatahdin.com/post/i-m-in-love-it-took-6000-miles-to-get-there",
+            "title": "I'm In Love--It Took 6000 Miles to Get There!",
+            "rank": 1
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.9,
+          33.0
+        ]
+      },
+      "properties": {
+        "place": "Black Warrior-Tombigbee Waterway",
+        "links": [
+          {
+            "url": "https://www.mvkatahdin.com/post/tenn-tom-is-behind-us",
+            "title": "Tenn-Tom Is Behind Us",
+            "rank": 1
+          },
+          {
+            "url": "https://www.mvkatahdin.com/post/tidewater-another-huge-challenge-great-people",
+            "title": "Tidewater, Another Huge Challenge, Great People!",
+            "rank": 1
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.4903,
+          27.1916
+        ]
+      },
+      "properties": {
+        "place": "Blackburn Point Bridge (Sarasota County)",
+        "links": [
+          {
+            "url": "https://www.mvkatahdin.com/post/the-end-of-the-gulf-icw",
+            "title": "The End of the Gulf ICW",
+            "rank": 1
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.957,
+          46.189
+        ]
+      },
+      "properties": {
+        "place": "Blind River, Ontario",
+        "links": [
+          {
+            "url": "https://www.mvkatahdin.com/post/they-let-us-back-in-and-more",
+            "title": "They Let Us Back In!  And More.",
+            "rank": 2
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.86,
+          32.238
+        ]
+      },
+      "properties": {
+        "place": "Bluffton, South Carolina",
+        "links": [
+          {
+            "url": "https://www.mvkatahdin.com/post/surviving-a-gale-in-hilton-head",
+            "title": "Surviving a Gale in Hilton Head",
+            "rank": 3
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.3118,
+          29.8919
+        ]
+      },
+      "properties": {
+        "place": "Bridge of Lions (St. Augustine)",
+        "links": [
+          {
+            "url": "https://www.mvkatahdin.com/post/st-augustine-shennanigans",
+            "title": "St. Augustine Shennanigans",
+            "rank": 3
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.566,
+          45.735
+        ]
+      },
+      "properties": {
+        "place": "Britt Station (Britt), Ontario",
+        "links": [
+          {
+            "url": "https://www.mvkatahdin.com/post/i-m-in-love-it-took-6000-miles-to-get-there",
+            "title": "I'm In Love--It Took 6000 Miles to Get There!",
+            "rank": 2
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.9969,
+          40.7061
+        ]
+      },
+      "properties": {
+        "place": "Brooklyn Bridge",
+        "links": [
+          {
+            "url": "https://www.mvkatahdin.com/post/always-a-tingle-you-gotta-love-new-york",
+            "title": "Always a Tingle--You Gotta Love New York",
+            "rank": 3
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+         -73.9766,
+         41.9154
+        ]
+      },
+      "properties": {
+        "place": "Rondout Yacht Basin",
+        "links": [
+          {
+            "url": "https://www.mvkatahdin.com/post/on-the-road-again-and-back-in-freshwater-too",
+            "title": "On the Road Again! And Back in Freshwater Too.",
+            "rank": 3
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.2121,
+          44.4759
+        ]
+      },
+      "properties": {
+        "place": "Burlington, Vermont",
+        "links": [
+          {
+            "url": "https://www.mvkatahdin.com/post/back-on-a-roll",
+            "title": "Back On a Roll!",
+            "rank": 3
+          },
+          {
+            "url": "https://www.mvkatahdin.com/post/friday-the-13th-yep",
+            "title": "Friday the 13th; Yep",
+            "rank": 2
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.3439,
+          34.6364
+        ]
+      },
+      "properties": {
+        "place": "Camp Lejeune, North Carolina",
+        "links": [
+          {
+            "url": "https://www.mvkatahdin.com/post/a-battleship-aground-live-fire-all-yellow",
+            "title": "A Battleship, Aground, Live Fire, All Yellow",
+            "rank": 2
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.3439,
+          34.6364
+        ]
+      },
+      "properties": {
+        "place": "Camp LeJeune, North Carolina",
+        "links": [
+          {
+            "url": "https://www.mvkatahdin.com/post/the-muse-the-muse-oh-where-is-the-muse",
+            "title": "The Muse, the Muse, Oh Where Is the Muse??",
+            "rank": 1
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.604,
+          28.392
+        ]
+      },
+      "properties": {
+        "place": "Cape Canaveral / Kennedy Space Center",
+        "links": [
+          {
+            "url": "https://www.mvkatahdin.com/post/and-the-rocket-s-red-glare",
+            "title": "And the Rocket's Red Glare!",
+            "rank": 3
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.9498,
+          26.5629
+        ]
+      },
+      "properties": {
+        "place": "Cape Coral, Florida",
+        "links": [
+          {
+            "url": "https://www.mvkatahdin.com/post/the-end-of-the-gulf-icw",
+            "title": "The End of the Gulf ICW",
+            "rank": 1
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.3805,
+          45.5333
+        ]
+      },
+      "properties": {
+        "place": "Carillon Lock, Quebec",
+        "links": [
+          {
+            "url": "https://www.mvkatahdin.com/post/headed-northwest",
+            "title": "Headed Northwest!",
+            "rank": 3
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.667,
+          29.852
+        ]
+      },
+      "properties": {
+        "place": "Carrabelle River",
+        "links": [
+          {
+            "url": "https://www.mvkatahdin.com/post/stella-jif-and-firehook-crackers-for-me-nap-time-for-the-admiral-and-bosun-we-broke-the-2000-mil",
+            "title": "Stella, Jif, and Firehook Crackers for Me; Nap Time for the Admiral and Bosun: We Broke the 2000 Mile Mark Tod",
+            "rank": 2
+          },
+          {
+            "url": "https://www.mvkatahdin.com/post/thank-god-i-m-alive-an-update-from-the-bosun",
+            "title": "Thank God I'm Alive; An Update from the Bosun",
+            "rank": 2
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.664,
+          29.853
+        ]
+      },
+      "properties": {
+        "place": "Carrabelle, Florida",
+        "links": [
+          {
+            "url": "https://www.mvkatahdin.com/post/hunkered-down",
+            "title": "Hunkered Down",
+            "rank": 3
+          },
+          {
+            "url": "https://www.mvkatahdin.com/post/stella-jif-and-firehook-crackers-for-me-nap-time-for-the-admiral-and-bosun-we-broke-the-2000-mil",
+            "title": "Stella, Jif, and Firehook Crackers for Me; Nap Time for the Admiral and Bosun: We Broke the 2000 Mile Mark Tod",
+            "rank": 3
+          },
+          {
+            "url": "https://www.mvkatahdin.com/post/thank-god-i-m-alive-an-update-from-the-bosun",
+            "title": "Thank God I'm Alive; An Update from the Bosun",
+            "rank": 3
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.28,
+          45.35
+        ]
+      },
+      "properties": {
+        "place": "Chambly Canal",
+        "links": [
+          {
+            "url": "https://www.mvkatahdin.com/post/au-canada-two-good-days",
+            "title": "Au Canada; Two Good Days!",
+            "rank": 3
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.5,
+          43.1
+        ]
+      },
+      "properties": {
+        "place": "Champlain Canal",
+        "links": [
+          {
+            "url": "https://www.mvkatahdin.com/post/a-beautiful-wet-slog-equipment-malfunctions-and-another-milestone",
+            "title": "A Beautiful, Wet, Slog; Equipment Malfunctions; and, Another Milestone!",
+            "rank": 3
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.257,
+          45.3181
+        ]
+      },
+      "properties": {
+        "place": "Charlevoix, Michigan",
+        "links": [
+          {
+            "url": "https://www.mvkatahdin.com/post/hopscotch",
+            "title": "Hopscotch",
+            "rank": 4
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.054,
+          36.268
+        ]
+      },
+      "properties": {
+        "place": "Cheatham Lock and Dam (Cumberland River)",
+        "links": [
+          {
+            "url": "https://www.mvkatahdin.com/post/taylor-hasn-t-invited-me-to-dinner-yet-but-marie-has",
+            "title": "Taylor Hasn't Invited Me to Dinner--Yet.  But, Marie Has!",
+            "rank": 2
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.6127,
+          41.8885
+        ]
+      },
+      "properties": {
+        "place": "Chicago Lock",
+        "links": [
+          {
+            "url": "https://www.mvkatahdin.com/post/a-dip-into-ratty-s-habitat",
+            "title": "A Dip Into Ratty's Habitat",
+            "rank": 2
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.7,
+          41.8
+        ]
+      },
+      "properties": {
+        "place": "Chicago Sanitary and Ship Canal",
+        "links": [
+          {
+            "url": "https://www.mvkatahdin.com/post/a-dip-into-ratty-s-habitat",
+            "title": "A Dip Into Ratty's Habitat",
+            "rank": 2
+          },
+          {
+            "url": "https://www.mvkatahdin.com/post/catching-up",
+            "title": "Catching Up",
+            "rank": 1
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.6298,
+          41.8781
+        ]
+      },
+      "properties": {
+        "place": "Chicago, Illinois",
+        "links": [
+          {
+            "url": "https://www.mvkatahdin.com/post/a-dip-into-ratty-s-habitat",
+            "title": "A Dip Into Ratty's Habitat",
+            "rank": 5
+          },
+          {
+            "url": "https://www.mvkatahdin.com/post/and-they-re-off",
+            "title": "And, They're Off!",
+            "rank": 4
+          },
+          {
+            "url": "https://www.mvkatahdin.com/post/they-call-me-bosun-that-s-weird",
+            "title": "They Call Me Bosun--That's Weird",
+            "rank": 3
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.351,
+          43.804
+        ]
+      },
+      "properties": {
+        "place": "Chipman Point Marina",
+        "links": [
+          {
+            "url": "https://www.mvkatahdin.com/post/back-on-a-roll",
+            "title": "Back On a Roll!",
+            "rank": 2
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.35,
+          45.95
+        ]
+      },
+      "properties": {
+        "place": "Chippewa Rock (Lake Huron)",
+        "links": [
+          {
+            "url": "https://www.mvkatahdin.com/post/they-let-us-back-in-and-more",
+            "title": "They Let Us Back In!  And More.",
+            "rank": 2
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.197,
+          44.783
+        ]
+      },
+      "properties": {
+        "place": "Colonel By Island",
+        "links": [
+          {
+            "url": "https://www.mvkatahdin.com/post/it-just-gets-better",
+            "title": "It Just Gets Better!",
+            "rank": 4
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.8792,
+          36.0828
+        ]
+      },
+      "properties": {
+        "place": "Commodore Yacht Club (Nashville)",
+        "links": [
+          {
+            "url": "https://www.mvkatahdin.com/post/taylor-hasn-t-invited-me-to-dinner-yet-but-marie-has",
+            "title": "Taylor Hasn't Invited Me to Dinner--Yet.  But, Marie Has!",
+            "rank": 2
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.4818,
+          44.2307
+        ]
+      },
+      "properties": {
+        "place": "Confederation Basin Marina (Kingston)",
+        "links": [
+          {
+            "url": "https://www.mvkatahdin.com/post/just-keeping-up",
+            "title": "Canada Day, Before and After!",
+            "rank": 2
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.75,
+          36.18
+        ]
+      },
+      "properties": {
+        "place": "Cumberland River (TN)",
+        "links": [
+          {
+            "url": "https://www.mvkatahdin.com/post/where-does-all-the-time-go",
+            "title": "Where Does All the Time Go?",
+            "rank": 2
+          },
+          {
+            "url": "https://www.mvkatahdin.com/post/women-performers-the-right-to-vote-1000-miles-and-then-some",
+            "title": "Women Performers, the Right to Vote, 1000 Miles--And Then Some",
+            "rank": 1
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.022,
+          29.21
+        ]
+      },
+      "properties": {
+        "place": "Daytona Beach, Florida",
+        "links": [
+          {
+            "url": "https://www.mvkatahdin.com/post/the-space-center-daytona-beach-an-early-valentine-s-dinner-and-a-month-with-no-problems-now-over",
+            "title": "The Space Center, Daytona Beach, An Early Valentine's Dinner, and A Month with No Problems Now Over--Kaput, Ka",
+            "rank": 2
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.836,
+          32.517
+        ]
+      },
+      "properties": {
+        "place": "Demopolis, Alabama",
+        "links": [
+          {
+            "url": "https://www.mvkatahdin.com/post/tenn-tom-is-behind-us",
+            "title": "Tenn-Tom Is Behind Us",
+            "rank": 3
+          },
+          {
+            "url": "https://www.mvkatahdin.com/post/tidewater-another-huge-challenge-great-people",
+            "title": "Tidewater, Another Huge Challenge, Great People!",
+            "rank": 1
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.078,
+          41.52
+        ]
+      },
+      "properties": {
+        "place": "Des Plaines River",
+        "links": [
+          {
+            "url": "https://www.mvkatahdin.com/post/catching-up",
+            "title": "Catching Up",
+            "rank": 1
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.495,
+          30.393
+        ]
+      },
+      "properties": {
+        "place": "Destin, Florida",
+        "links": [
+          {
+            "url": "https://www.mvkatahdin.com/post/it-s-been-a-week-the-bosun-s-update",
+            "title": "It's Been a Week--The Bosun's Update",
+            "rank": 3
+          },
+          {
+            "url": "https://www.mvkatahdin.com/post/on-the-road-water-again-we-re-back",
+            "title": "On the Road (Water) Again; We're Back!",
+            "rank": 1
+          },
+          {
+            "url": "https://www.mvkatahdin.com/post/st-andrews-panama-city",
+            "title": "St. Andrews, Panama City",
+            "rank": 1
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.8976,
+          45.9861
+        ]
+      },
+      "properties": {
+        "place": "DeTour Reef Light",
+        "links": [
+          {
+            "url": "https://www.mvkatahdin.com/post/they-let-us-back-in-and-more",
+            "title": "They Let Us Back In!  And More.",
+            "rank": 2
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.576,
+          29.812
+        ]
+      },
+      "properties": {
+        "place": "Dog Island, Florida",
+        "links": [
+          {
+            "url": "https://www.mvkatahdin.com/post/hunkered-down",
+            "title": "Hunkered Down",
+            "rank": 2
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.614,
+          41.8864
+        ]
+      },
+      "properties": {
+        "place": "DuSable Harbor",
+        "links": [
+          {
+            "url": "https://www.mvkatahdin.com/post/and-they-re-off",
+            "title": "And, They're Off!",
+            "rank": 1
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.96,
+          40.73
+        ]
+      },
+      "properties": {
+        "place": "East River (NYC)",
+        "links": [
+          {
+            "url": "https://www.mvkatahdin.com/post/always-a-tingle-you-gotta-love-new-york",
+            "title": "Always a Tingle--You Gotta Love New York",
+            "rank": 1
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.0396,
+          40.6993
+        ]
+      },
+      "properties": {
+        "place": "Ellis Island",
+        "links": [
+          {
+            "url": "https://www.mvkatahdin.com/post/always-a-tingle-you-gotta-love-new-york",
+            "title": "Always a Tingle--You Gotta Love New York",
+            "rank": 2
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.9429,
+          45.6534
+        ]
+      },
+      "properties": {
+        "place": "Fairmont Le Château Montebello Marina",
+        "links": [
+          {
+            "url": "https://www.mvkatahdin.com/post/il-fait-chaud-aujord-hui",
+            "title": "Il Fait Chaud Aujord'hui",
+            "rank": 1
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.462,
+          30.669
+        ]
+      },
+      "properties": {
+        "place": "Fernandina Beach, Florida",
+        "links": [
+          {
+            "url": "https://www.mvkatahdin.com/post/the-weekend-update-farewell-to-st-augusinte-hello-to-amelia-island-and-fernandina-beach",
+            "title": "The Weekend Update--Farewell to St. Augusinte; Hello to Amelia Island and Fernandina Beach",
+            "rank": 3
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.7602,
+          45.0229
+        ]
+      },
+      "properties": {
+        "place": "Fishtown (Leland)",
+        "links": [
+          {
+            "url": "https://www.mvkatahdin.com/post/hopscotch",
+            "title": "Hopscotch",
+            "rank": 2
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.2886,
+          45.4508
+        ]
+      },
+      "properties": {
+        "place": "Fort Chambly",
+        "links": [
+          {
+            "url": "https://www.mvkatahdin.com/post/au-canada-two-good-days",
+            "title": "Au Canada; Two Good Days!",
+            "rank": 4
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.584,
+          43.267
+        ]
+      },
+      "properties": {
+        "place": "Fort Edward, New York",
+        "links": [
+          {
+            "url": "https://www.mvkatahdin.com/post/a-beautiful-wet-slog-equipment-malfunctions-and-another-milestone",
+            "title": "A Beautiful, Wet, Slog; Equipment Malfunctions; and, Another Milestone!",
+            "rank": 2
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.413,
+          43.838
+        ]
+      },
+      "properties": {
+        "place": "Fort Ticonderoga Cable Ferry",
+        "links": [
+          {
+            "url": "https://www.mvkatahdin.com/post/back-on-a-roll",
+            "title": "Back On a Roll!",
+            "rank": 3
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.716,
+          45.477
+        ]
+      },
+      "properties": {
+        "place": "Gatineau, Québec",
+        "links": [
+          {
+            "url": "https://www.mvkatahdin.com/post/lock-after-lock-after-lock",
+            "title": "Lock after Lock after Lock",
+            "rank": 3
+          },
+          {
+            "url": "https://www.mvkatahdin.com/post/il-fait-chaud-aujord-hui",
+            "title": "Il Fait Chaud Aujord'hui",
+            "rank": 2
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.281,
+          33.3665
+        ]
+      },
+      "properties": {
+        "place": "Georgetown, South Carolina",
+        "links": [
+          {
+            "url": "https://www.mvkatahdin.com/post/charleston-georgetown",
+            "title": "Charleston--Georgetown",
+            "rank": 3
+          },
+          {
+            "url": "https://www.mvkatahdin.com/post/this-n-that",
+            "title": "This 'n' That",
+            "rank": 3
+          },
+          {
+            "url": "https://www.mvkatahdin.com/post/the-gullah-geechee",
+            "title": "The Gullah Geechee",
+            "rank": 2
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.0,
+          45.3
+        ]
+      },
+      "properties": {
+        "place": "Georgian Bay",
+        "links": [
+          {
+            "url": "https://www.mvkatahdin.com/post/georgian-bay-immense-rocky-beyond-measure-and-home-to-summer-traditions",
+            "title": "Georgian Bay:  Immense, Rocky Beyond Measure, and Home to Summer Traditions",
+            "rank": 5
+          },
+          {
+            "url": "https://www.mvkatahdin.com/post/as-best-we-can-count-a-quick-taking-stock",
+            "title": "As Best We Can Count: A Quick Taking Stock",
+            "rank": 4
+          },
+          {
+            "url": "https://www.mvkatahdin.com/post/great-loop-blog-100-still-so-much-to-share",
+            "title": "Great Loop Blog # 100!!!  Still So Much To Share.",
+            "rank": 3
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.522,
+          42.88
+        ]
+      },
+      "properties": {
+        "place": "Gerald R. Ford International Airport (GRR)",
+        "links": [
+          {
+            "url": "https://www.mvkatahdin.com/post/they-call-me-bosun-that-s-weird",
+            "title": "They Call Me Bosun--That's Weird",
+            "rank": 2
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.9903,
+          45.4312
+        ]
+      },
+      "properties": {
+        "place": "Harbor Springs Marina Park",
+        "links": [
+          {
+            "url": "https://www.mvkatahdin.com/post/hopscotch",
+            "title": "Hopscotch",
+            "rank": 1
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.9853,
+          45.4317
+        ]
+      },
+      "properties": {
+        "place": "Harbor Springs, Michigan",
+        "links": [
+          {
+            "url": "https://www.mvkatahdin.com/post/haven-t-crossed-our-wake-yet-but-back-in-lake-michigan",
+            "title": "Haven't Crossed Our Wake Yet but Back in Lake Michigan!",
+            "rank": 3
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.749,
+          32.216
+        ]
+      },
+      "properties": {
+        "place": "Hilton Head Island, South Carolina",
+        "links": [
+          {
+            "url": "https://www.mvkatahdin.com/post/wow-an-interlude-and-off-again",
+            "title": "Wow!  An Interlude and Off Again",
+            "rank": 2
+          },
+          {
+            "url": "https://www.mvkatahdin.com/post/to-embark-on-america-s-great-loop-it-takes-a-lot-of-stuff",
+            "title": "To embark on America's Great Loop, it takes a lot of stuff!",
+            "rank": 1
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.1089,
+          42.7875
+        ]
+      },
+      "properties": {
+        "place": "Holland, Michigan",
+        "links": [
+          {
+            "url": "https://www.mvkatahdin.com/post/we-did-it",
+            "title": "We Did It!",
+            "rank": 4
+          },
+          {
+            "url": "https://www.mvkatahdin.com/post/they-call-me-bosun-that-s-weird",
+            "title": "They Call Me Bosun--That's Weird",
+            "rank": 2
+          },
+          {
+            "url": "https://www.mvkatahdin.com/post/to-embark-on-america-s-great-loop-it-takes-a-lot-of-stuff",
+            "title": "To embark on America's Great Loop, it takes a lot of stuff!",
+            "rank": 2
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.0,
+          40.77
+        ]
+      },
+      "properties": {
+        "place": "Hudson River (NYC)",
+        "links": [
+          {
+            "url": "https://www.mvkatahdin.com/post/as-best-we-can-count-a-quick-taking-stock",
+            "title": "As Best We Can Count: A Quick Taking Stock",
+            "rank": 2
+          },
+          {
+            "url": "https://www.mvkatahdin.com/post/friday-the-13th-yep",
+            "title": "Friday the 13th; Yep",
+            "rank": 2
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.99,
+          40.0
+        ]
+      },
+      "properties": {
+        "place": "Illinois River",
+        "links": [
+          {
+            "url": "https://www.mvkatahdin.com/post/how-low-can-you-go",
+            "title": "How Low Can You Go?",
+            "rank": 1
+          },
+          {
+            "url": "https://www.mvkatahdin.com/post/report-from-the-heartland",
+            "title": "Report From the Heartland",
+            "rank": 1
+          },
+          {
+            "url": "https://www.mvkatahdin.com/post/so-much-to-share",
+            "title": "So Much to Share!",
+            "rank": 1
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.5566,
+          40.6923
+        ]
+      },
+      "properties": {
+        "place": "Illinois Valley Yacht Club (IVY Club)",
+        "links": [
+          {
+            "url": "https://www.mvkatahdin.com/post/it-s-a-beautiful-morning",
+            "title": "It's a Beautiful Morning!",
+            "rank": 3
+          },
+          {
+            "url": "https://www.mvkatahdin.com/post/how-low-can-you-go",
+            "title": "How Low Can You Go?",
+            "rank": 1
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.485,
+          27.027
+        ]
+      },
+      "properties": {
+        "place": "Indiantown, Florida",
+        "links": [
+          {
+            "url": "https://www.mvkatahdin.com/post/cap-1-alligators-0-no-rematch-offered",
+            "title": "Cap 1; Alligators 0.  No Rematch Offered",
+            "rank": 2
+          },
+          {
+            "url": "https://www.mvkatahdin.com/post/and-the-rocket-s-red-glare",
+            "title": "And the Rocket's Red Glare!",
+            "rank": 1
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.883,
+          44.0
+        ]
+      },
+      "properties": {
+        "place": "Keewatin (SS Keewatin)",
+        "links": [
+          {
+            "url": "https://www.mvkatahdin.com/post/just-keeping-up",
+            "title": "Canada Day, Before and After!",
+            "rank": 3
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.604,
+          28.572
+        ]
+      },
+      "properties": {
+        "place": "Kennedy Space Center",
+        "links": [
+          {
+            "url": "https://www.mvkatahdin.com/post/the-space-center-daytona-beach-an-early-valentine-s-dinner-and-a-month-with-no-problems-now-over",
+            "title": "The Space Center, Daytona Beach, An Early Valentine's Dinner, and A Month with No Problems Now Over--Kaput, Ka",
+            "rank": 2
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.4488,
+          44.2962
+        ]
+      },
+      "properties": {
+        "place": "Kingston Mills Locks (Rideau)",
+        "links": [
+          {
+            "url": "https://www.mvkatahdin.com/post/special-edition-happy-canada-day",
+            "title": "Special Edition!  Happy Canada Day.",
+            "rank": 2
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.485,
+          44.231
+        ]
+      },
+      "properties": {
+        "place": "Kingston, Ontario",
+        "links": [
+          {
+            "url": "https://www.mvkatahdin.com/post/just-keeping-up",
+            "title": "Canada Day, Before and After!",
+            "rank": 4
+          },
+          {
+            "url": "https://www.mvkatahdin.com/post/special-edition-happy-canada-day",
+            "title": "Special Edition!  Happy Canada Day.",
+            "rank": 4
+          },
+          {
+            "url": "https://www.mvkatahdin.com/post/what-a-weekend-and-canada-day-is-tuesday",
+            "title": "What a Weekend and Canada Day Is Tuesday!",
+            "rank": 2
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.0,
+          45.47
+        ]
+      },
+      "properties": {
+        "place": "Lac des Deux Montagnes",
+        "links": [
+          {
+            "url": "https://www.mvkatahdin.com/post/headed-northwest",
+            "title": "Headed Northwest!",
+            "rank": 2
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.29,
+          45.45
+        ]
+      },
+      "properties": {
+        "place": "Lake Chambly",
+        "links": [
+          {
+            "url": "https://www.mvkatahdin.com/post/au-canada-two-good-days",
+            "title": "Au Canada; Two Good Days!",
+            "rank": 3
+          },
+          {
+            "url": "https://www.mvkatahdin.com/post/from-the-country-to-the-city-and-on-to-2223",
+            "title": "From the Country to the City (and on to 2223)!",
+            "rank": 1
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.3,
+          44.5
+        ]
+      },
+      "properties": {
+        "place": "Lake Champlain",
+        "links": [
+          {
+            "url": "https://www.mvkatahdin.com/post/friday-the-13th-yep",
+            "title": "Friday the 13th; Yep",
+            "rank": 3
+          },
+          {
+            "url": "https://www.mvkatahdin.com/post/a-beautiful-wet-slog-equipment-malfunctions-and-another-milestone",
+            "title": "A Beautiful, Wet, Slog; Equipment Malfunctions; and, Another Milestone!",
+            "rank": 2
+          },
+          {
+            "url": "https://www.mvkatahdin.com/post/georgian-bay-immense-rocky-beyond-measure-and-home-to-summer-traditions",
+            "title": "Georgian Bay:  Immense, Rocky Beyond Measure, and Home to Summer Traditions",
+            "rank": 1
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.0,
+          44.0
+        ]
+      },
+      "properties": {
+        "place": "Lake Michigan",
+        "links": [
+          {
+            "url": "https://www.mvkatahdin.com/post/part-i-the-final-chapter",
+            "title": "Part I:  The Final Chapter",
+            "rank": 4
+          },
+          {
+            "url": "https://www.mvkatahdin.com/post/we-did-it",
+            "title": "We Did It!",
+            "rank": 3
+          },
+          {
+            "url": "https://www.mvkatahdin.com/post/progress",
+            "title": "Progress!",
+            "rank": 2
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.95,
+          26.95
+        ]
+      },
+      "properties": {
+        "place": "Lake Okeechobee",
+        "links": [
+          {
+            "url": "https://www.mvkatahdin.com/post/cap-1-alligators-0-no-rematch-offered",
+            "title": "Cap 1; Alligators 0.  No Rematch Offered",
+            "rank": 3
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.3153,
+          29.8922
+        ]
+      },
+      "properties": {
+        "place": "Lightner Museum (St. Augustine)",
+        "links": [
+          {
+            "url": "https://www.mvkatahdin.com/post/the-weekend-update-farewell-to-st-augusinte-hello-to-amelia-island-and-fernandina-beach",
+            "title": "The Weekend Update--Farewell to St. Augusinte; Hello to Amelia Island and Fernandina Beach",
+            "rank": 1
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.642,
+          27.412
+        ]
+      },
+      "properties": {
+        "place": "Longboat Key, Florida",
+        "links": [
+          {
+            "url": "https://www.mvkatahdin.com/post/time-for-an-update",
+            "title": "Time for an Update.",
+            "rank": 3
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.6246,
+          45.8492
+        ]
+      },
+      "properties": {
+        "place": "Mackinac Island, Michigan",
+        "links": [
+          {
+            "url": "https://www.mvkatahdin.com/post/part-i-the-final-chapter",
+            "title": "Part I:  The Final Chapter",
+            "rank": 2
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.55,
+          45.77
+        ]
+      },
+      "properties": {
+        "place": "Magnetawan River, Ontario",
+        "links": [
+          {
+            "url": "https://www.mvkatahdin.com/post/i-m-in-love-it-took-6000-miles-to-get-there",
+            "title": "I'm In Love--It Took 6000 Miles to Get There!",
+            "rank": 1
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.834,
+          44.915
+        ]
+      },
+      "properties": {
+        "place": "Merrickville, Ontario",
+        "links": [
+          {
+            "url": "https://www.mvkatahdin.com/post/lock-after-lock-after-lock",
+            "title": "Lock after Lock after Lock",
+            "rank": 5
+          },
+          {
+            "url": "https://www.mvkatahdin.com/post/it-just-gets-better",
+            "title": "It Just Gets Better!",
+            "rank": 2
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.417,
+          29.948
+        ]
+      },
+      "properties": {
+        "place": "Mexico Beach, Florida",
+        "links": [
+          {
+            "url": "https://www.mvkatahdin.com/post/hunkered-down",
+            "title": "Hunkered Down",
+            "rank": 2
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.882,
+          44.75
+        ]
+      },
+      "properties": {
+        "place": "Midland, Ontario",
+        "links": [
+          {
+            "url": "https://www.mvkatahdin.com/post/a-great-week-living-ashore",
+            "title": "A Great Week Living Ashore",
+            "rank": 2
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.341,
+          34.565
+        ]
+      },
+      "properties": {
+        "place": "Mile Hammock Bay (Camp Lejeune)",
+        "links": [
+          {
+            "url": "https://www.mvkatahdin.com/post/the-muse-the-muse-oh-where-is-the-muse",
+            "title": "The Muse, the Muse, Oh Where Is the Muse??",
+            "rank": 1
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.341,
+          34.565
+        ]
+      },
+      "properties": {
+        "place": "Mile Hammock Bay, Camp Lejeune",
+        "links": [
+          {
+            "url": "https://www.mvkatahdin.com/post/a-battleship-aground-live-fire-all-yellow",
+            "title": "A Battleship, Aground, Live Fire, All Yellow",
+            "rank": 2
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.0,
+          35.0
+        ]
+      },
+      "properties": {
+        "place": "Mississippi River",
+        "links": [
+          {
+            "url": "https://www.mvkatahdin.com/post/safety-on-katahdin",
+            "title": "Safety on Katahdin",
+            "rank": 3
+          },
+          {
+            "url": "https://www.mvkatahdin.com/post/so-much-to-share",
+            "title": "So Much to Share!",
+            "rank": 3
+          },
+          {
+            "url": "https://www.mvkatahdin.com/post/something-light",
+            "title": "Something Light!",
+            "rank": 3
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.9,
+          30.5
+        ]
+      },
+      "properties": {
+        "place": "Mobile Bay, Alabama",
+        "links": [
+          {
+            "url": "https://www.mvkatahdin.com/post/tenn-tom-is-behind-us",
+            "title": "Tenn-Tom Is Behind Us",
+            "rank": 2
+          },
+          {
+            "url": "https://www.mvkatahdin.com/post/tidewater-another-huge-challenge-great-people",
+            "title": "Tidewater, Another Huge Challenge, Great People!",
+            "rank": 1
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.942,
+          45.651
+        ]
+      },
+      "properties": {
+        "place": "Montebello, Québec",
+        "links": [
+          {
+            "url": "https://www.mvkatahdin.com/post/il-fait-chaud-aujord-hui",
+            "title": "Il Fait Chaud Aujord'hui",
+            "rank": 4
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.5673,
+          45.5017
+        ]
+      },
+      "properties": {
+        "place": "Montréal, Québec",
+        "links": [
+          {
+            "url": "https://www.mvkatahdin.com/post/headed-northwest",
+            "title": "Headed Northwest!",
+            "rank": 5
+          },
+          {
+            "url": "https://www.mvkatahdin.com/post/part-i-the-final-chapter",
+            "title": "Part I:  The Final Chapter",
+            "rank": 3
+          },
+          {
+            "url": "https://www.mvkatahdin.com/post/on-the-road-again-and-back-in-freshwater-too",
+            "title": "On the Road Again! And Back in Freshwater Too.",
+            "rank": 2
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.7816,
+          36.1627
+        ]
+      },
+      "properties": {
+        "place": "Nashville, Tennessee",
+        "links": [
+          {
+            "url": "https://www.mvkatahdin.com/post/women-performers-the-right-to-vote-1000-miles-and-then-some",
+            "title": "Women Performers, the Right to Vote, 1000 Miles--And Then Some",
+            "rank": 2
+          },
+          {
+            "url": "https://www.mvkatahdin.com/post/to-make-god-chuckle-tell-her-you-ve-got-plans",
+            "title": "To make God chuckle, tell her you've got plans!",
+            "rank": 1
+          },
+          {
+            "url": "https://www.mvkatahdin.com/post/where-does-all-the-time-go",
+            "title": "Where Does All the Time Go?",
+            "rank": 1
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.9,
+          35.0
+        ]
+      },
+      "properties": {
+        "place": "Neuse River, North Carolina",
+        "links": [
+          {
+            "url": "https://www.mvkatahdin.com/post/you-can-teach-an-old-dog-new-tricks",
+            "title": "You Can Teach an Old Dog New Tricks!",
+            "rank": 2
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.2859,
+          36.8508
+        ]
+      },
+      "properties": {
+        "place": "Norfolk, Virginia",
+        "links": [
+          {
+            "url": "https://www.mvkatahdin.com/post/you-can-teach-an-old-dog-new-tricks",
+            "title": "You Can Teach an Old Dog New Tricks!",
+            "rank": 2
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.9,
+          26.95
+        ]
+      },
+      "properties": {
+        "place": "Okeechobee Waterway",
+        "links": [
+          {
+            "url": "https://www.mvkatahdin.com/post/cap-1-alligators-0-no-rematch-offered",
+            "title": "Cap 1; Alligators 0.  No Rematch Offered",
+            "rank": 1
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.419,
+          44.606
+        ]
+      },
+      "properties": {
+        "place": "Orillia, Ontario",
+        "links": [
+          {
+            "url": "https://www.mvkatahdin.com/post/gordon-lightfoot-s-home-town-who-knew",
+            "title": "Gordon Lightfoot's Home Town--Who Knew?",
+            "rank": 5
+          },
+          {
+            "url": "https://www.mvkatahdin.com/post/a-great-week-ashore-addendum-opp-officer-stops-cap",
+            "title": "A Great Week Ashore--Addendum:  OPP Officer Stops Cap!",
+            "rank": 2
+          },
+          {
+            "url": "https://www.mvkatahdin.com/post/as-best-we-can-count-a-quick-taking-stock",
+            "title": "As Best We Can Count: A Quick Taking Stock",
+            "rank": 2
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.0,
+          45.5
+        ]
+      },
+      "properties": {
+        "place": "Ottawa River",
+        "links": [
+          {
+            "url": "https://www.mvkatahdin.com/post/lock-after-lock-after-lock",
+            "title": "Lock after Lock after Lock",
+            "rank": 4
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.6972,
+          45.4215
+        ]
+      },
+      "properties": {
+        "place": "Ottawa, Ontario",
+        "links": [
+          {
+            "url": "https://www.mvkatahdin.com/post/what-a-weekend-and-canada-day-is-tuesday",
+            "title": "What a Weekend and Canada Day Is Tuesday!",
+            "rank": 4
+          },
+          {
+            "url": "https://www.mvkatahdin.com/post/special-edition-happy-canada-day",
+            "title": "Special Edition!  Happy Canada Day.",
+            "rank": 3
+          },
+          {
+            "url": "https://www.mvkatahdin.com/post/to-make-god-chuckle-tell-her-you-ve-got-plans",
+            "title": "To make God chuckle, tell her you've got plans!",
+            "rank": 1
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.66,
+          30.158
+        ]
+      },
+      "properties": {
+        "place": "Panama City, Florida",
+        "links": [
+          {
+            "url": "https://www.mvkatahdin.com/post/st-andrews-panama-city",
+            "title": "St. Andrews, Panama City",
+            "rank": 4
+          },
+          {
+            "url": "https://www.mvkatahdin.com/post/it-s-been-a-week-the-bosun-s-update",
+            "title": "It's Been a Week--The Bosun's Update",
+            "rank": 3
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.216,
+          30.421
+        ]
+      },
+      "properties": {
+        "place": "Pensacola, Florida",
+        "links": [
+          {
+            "url": "https://www.mvkatahdin.com/post/on-the-road-water-again-we-re-back",
+            "title": "On the Road (Water) Again; We're Back!",
+            "rank": 4
+          },
+          {
+            "url": "https://www.mvkatahdin.com/post/it-s-been-a-week-the-bosun-s-update",
+            "title": "It's Been a Week--The Bosun's Update",
+            "rank": 3
+          },
+          {
+            "url": "https://www.mvkatahdin.com/post/it-s-good-to-be-home-can-t-wait-to-get-back",
+            "title": "It's Good to Be Home, Can't Wait to Get Back!",
+            "rank": 3
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.748,
+          40.647
+        ]
+      },
+      "properties": {
+        "place": "Peoria Lock and Dam",
+        "links": [
+          {
+            "url": "https://www.mvkatahdin.com/post/how-low-can-you-go",
+            "title": "How Low Can You Go?",
+            "rank": 1
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.588,
+          40.693
+        ]
+      },
+      "properties": {
+        "place": "Peoria, Illinois",
+        "links": [
+          {
+            "url": "https://www.mvkatahdin.com/post/it-s-a-beautiful-morning",
+            "title": "It's a Beautiful Morning!",
+            "rank": 1
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.9496,
+          34.2418
+        ]
+      },
+      "properties": {
+        "place": "Port City Marina (Wilmington)",
+        "links": [
+          {
+            "url": "https://www.mvkatahdin.com/post/a-battleship-aground-live-fire-all-yellow",
+            "title": "A Battleship, Aground, Live Fire, All Yellow",
+            "rank": 2
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.7169,
+          44.8051
+        ]
+      },
+      "properties": {
+        "place": "Port Severn, Ontario",
+        "links": [
+          {
+            "url": "https://www.mvkatahdin.com/post/after-the-big-chute-another-leg-behind-us",
+            "title": "After the Big Chute, Another Leg Behind Us",
+            "rank": 3
+          },
+          {
+            "url": "https://www.mvkatahdin.com/post/cruising-the-trent-severn-waterway-a-dream-come-true-on-the-fourth-of-july",
+            "title": "Cruising the Trent-Severn Waterway--A Dream Come True on the Fourth of July!",
+            "rank": 1
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.7,
+          45.43
+        ]
+      },
+      "properties": {
+        "place": "Rideau Canal",
+        "links": [
+          {
+            "url": "https://www.mvkatahdin.com/post/what-a-weekend-and-canada-day-is-tuesday",
+            "title": "What a Weekend and Canada Day Is Tuesday!",
+            "rank": 2
+          },
+          {
+            "url": "https://www.mvkatahdin.com/post/two-hot-days-on-the-trent-severn",
+            "title": "Two, Hot Days on the Trent-Severn",
+            "rank": 1
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.674,
+          44.794
+        ]
+      },
+      "properties": {
+        "place": "Severn Falls, Ontario",
+        "links": [
+          {
+            "url": "https://www.mvkatahdin.com/post/after-the-big-chute-another-leg-behind-us",
+            "title": "After the Big Chute, Another Leg Behind Us",
+            "rank": 2
+          },
+          {
+            "url": "https://www.mvkatahdin.com/post/georgian-bay-immense-rocky-beyond-measure-and-home-to-summer-traditions",
+            "title": "Georgian Bay:  Immense, Rocky Beyond Measure, and Home to Summer Traditions",
+            "rank": 1
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.314,
+          29.901
+        ]
+      },
+      "properties": {
+        "place": "St. Augustine, Florida",
+        "links": [
+          {
+            "url": "https://www.mvkatahdin.com/post/st-augustine-shennanigans",
+            "title": "St. Augustine Shennanigans",
+            "rank": 5
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.756,
+          28.146
+        ]
+      },
+      "properties": {
+        "place": "Tarpon Springs, Florida",
+        "links": [
+          {
+            "url": "https://www.mvkatahdin.com/post/time-for-an-update",
+            "title": "Time for an Update.",
+            "rank": 3
+          },
+          {
+            "url": "https://www.mvkatahdin.com/post/st-augustine-shennanigans",
+            "title": "St. Augustine Shennanigans",
+            "rank": 1
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.2,
+          33.4
+        ]
+      },
+      "properties": {
+        "place": "Tennessee-Tombigbee Waterway (Tenn-Tom)",
+        "links": [
+          {
+            "url": "https://www.mvkatahdin.com/post/when-things-go-right",
+            "title": "When Things Go Right",
+            "rank": 1
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.65,
+          28.585
+        ]
+      },
+      "properties": {
+        "place": "Vehicle Assembly Building (VAB)",
+        "links": [
+          {
+            "url": "https://www.mvkatahdin.com/post/the-space-center-daytona-beach-an-early-valentine-s-dinner-and-a-month-with-no-problems-now-over",
+            "title": "The Space Center, Daytona Beach, An Early Valentine's Dinner, and A Month with No Problems Now Over--Kaput, Ka",
+            "rank": 3
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.093,
+          33.566
+        ]
+      },
+      "properties": {
+        "place": "Wacca Wache Marina",
+        "links": [
+          {
+            "url": "https://www.mvkatahdin.com/post/addendum-love-the-waccamaw",
+            "title": "Addendum--Love the Waccamaw",
+            "rank": 2
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.12,
+          33.56
+        ]
+      },
+      "properties": {
+        "place": "Waccamaw River",
+        "links": [
+          {
+            "url": "https://www.mvkatahdin.com/post/addendum-love-the-waccamaw",
+            "title": "Addendum--Love the Waccamaw",
+            "rank": 2
+          }
+        ]
+      }
+    }
+  ]
+}

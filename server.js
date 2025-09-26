@@ -12,7 +12,7 @@ const PORT = process.env.PORT || 3000;
 const app = express();
 
 // ---- Load GeoJSON once at startup (static data) ----
-const GEO_PATH = path.resolve(__dirname, "greatloopplaces-001.geojson");
+const GEO_PATH = path.resolve(__dirname, "greatloopplaces-002.geojson");
 let features = [];
 try {
   const raw = fs.readFileSync(GEO_PATH, "utf8");
@@ -53,6 +53,37 @@ app.get("/getchloop", (req, res) => {
     .info { min-width: 240px; font: 14px/1.4 system-ui, -apple-system, Segoe UI, Roboto, sans-serif; }
     .info .place { font-weight: 600; margin-bottom: 4px; }
     .gm-style .gm-style-iw-c { border-radius: 12px; }
+  /* InfoWindow styles */
+  .info { 
+    max-width: 280px; 
+    line-height: 1.25; 
+  }
+
+  .info .place { 
+    font-weight: 600; 
+    margin-bottom: 4px; 
+    font-size: 14px; 
+  }
+
+  .info ul { 
+    margin: 4px 0 0;       /* tighter top margin */
+    padding-left: 16px;     /* compact bullet indent */
+    list-style: disc; 
+  }
+
+  .info li { 
+    margin: 2px 0;          /* small gap between links */
+  }
+
+  .info a { 
+    text-decoration: none; 
+    white-space: normal; 
+    overflow-wrap: anywhere; /* prevent long URLs from overflowing */
+  }
+
+  .info a:hover { 
+    text-decoration: underline; 
+  }
   </style>
 </head>
 <body>
@@ -106,13 +137,34 @@ app.get("/getchloop", (req, res) => {
           if (!Number.isFinite(lat) || !Number.isFinite(lng)) return;
 
           const place = (p.place || "").toString();
-          const url   = (p.url   || "#").toString();
-          const title = (p.title || place || url).toString();
+
+          // NEW: handle up to 3 links from properties.links (fallback to legacy url/title)
+          const links = Array.isArray(p.links)
+            ? p.links
+                .filter(l => l && typeof l.url === "string" && l.url.trim() !== "")
+                .map(l => ({
+                  url: l.url.toString(),
+                  title: (l.title || l.url).toString()
+                }))
+            : [];
+
+          if (links.length === 0 && p.url) {
+            links.push({
+              url: p.url.toString(),
+              title: (p.title || place || p.url).toString()
+            });
+          }
+
+          const displayLinks = links.slice(0, 3);
 
           const content = basePin.element.cloneNode(true);
           const marker = new AdvancedMarkerElement({
-            position: { lat, lng }, map, content, title: place || title
-          });          
+            position: { lat, lng },
+            map,
+            content,
+            title: place || (displayLinks[0]?.title ?? "")
+          });
+
           // Build InfoWindow content safely using DOM (no string HTML injection)
           function openInfo() {
             const container = document.createElement("div");
@@ -120,16 +172,26 @@ app.get("/getchloop", (req, res) => {
 
             const placeDiv = document.createElement("div");
             placeDiv.className = "place";
-            placeDiv.textContent = place;
+            placeDiv.textContent = place || (displayLinks[0]?.title ?? "");
             container.appendChild(placeDiv);
 
-            const a = document.createElement("a");
-            a.href = url;
-            a.target = "_blank";
-            a.rel = "noopener";
-            a.textContent = title;
-            container.appendChild(a);
+            const list = document.createElement("ul");
+            list.style.paddingLeft = "1rem";
+            list.style.margin = "0";
+            list.style.listStyle = "disc";
 
+            displayLinks.forEach((lnk) => {
+              const li = document.createElement("li");
+              const a = document.createElement("a");
+              a.href = lnk.url;
+              a.target = "_blank";
+              a.rel = "noopener";
+              a.textContent = lnk.title && String(lnk.title).trim() ? lnk.title : lnk.url;
+              li.appendChild(a);
+              list.appendChild(li);
+            });
+
+            container.appendChild(list);
             info.setContent(container);
             info.open({ anchor: marker, map });
           }
