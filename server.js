@@ -3,6 +3,8 @@
 // - Loads ./greatloopplaces-001.geojson once on startup (static)
 // - Returns HTML/JS that plots markers with InfoWindows
 // - InfoWindow shows properties.place and an <a> (href=properties.url, label=properties.title)
+// REQUIRED - key for google maps JS api :
+//   export GOOGLE_MAPS_API_KEY={$api-key} is the idiom for default env var 
 
 const express = require("express");
 const fs = require("fs");
@@ -12,6 +14,7 @@ const PORT = process.env.PORT || 3000;
 const app = express();
 
 // ---- Load GeoJSON once at startup (static data) ----
+// TODO multimaps feature, would be 1 static map per route
 const GEO_PATH = path.resolve(__dirname, "greatloopplaces-002.geojson");
 let features = [];
 try {
@@ -29,6 +32,7 @@ try {
 
 // ---- Route: GET /getchloop ----
 // Optional query params: ?lat=...&long=...
+// TODO - latency involved, inline loading of static map based on dict.key.ref in parms
 app.get("/getchloop", (req, res) => {
   const qLat = Number(req.query.lat);
   const qLng = Number(req.query.long);
