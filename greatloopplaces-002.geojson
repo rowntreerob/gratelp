@@ -251,26 +251,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -80.0,
-          29.0
-        ]
-      },
-      "properties": {
-        "place": "Atlantic Intracoastal Waterway (AICW)",
-        "links": [
-          {
-            "url": "https://www.mvkatahdin.com/post/and-the-rocket-s-red-glare",
-            "title": "And the Rocket's Red Glare!",
-            "rank": 4
-          }
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           -79.69,
           44.389
         ]
